@@ -14,7 +14,11 @@
     # sum28([1, 2, 3, 4]) -> false
 def sum28(nums):
     # +++your code here+++
-    return
+    sum = 0
+    for int in nums
+        if int == 2
+            sum += int
+    return sum == 8
 
 
 #=================ONLY~14==================/
